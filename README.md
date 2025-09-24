@@ -48,6 +48,8 @@ My goal is to grow into a **penetration testing or security consulting role**, w
 ### 💻 Operating Systems & Scripting  
 <div>
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Parrot_OS-15A594?&style=for-the-badge&logo=parrot-security&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_11-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
 </div>
