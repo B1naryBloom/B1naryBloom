@@ -1,7 +1,8 @@
 # Hello, I'm Essence!  
 <a href="https://linkedin.com/in/essence-d"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an early career cybersecurity professional passionate about hands-on learning in **cybersecurity, networking, and web application security**.  
+I am an early career cybersecurity professional passionate about hands-on learning in **cybersecurity, networking, and web application security**.
+
 I use my GitHub to document my journey and showcase projects from my **Cyber Lab Journal**, where I explore penetration testing, packet analysis, and scripting.
 
 ---
