@@ -3,12 +3,12 @@
 
 I am an early career cybersecurity professional passionate about hands-on learning in **cybersecurity, networking, and web application security**.
 
-I use my GitHub to document my journey and showcase projects from my **Cyber Lab Journal**, where I explore penetration testing, packet analysis, and scripting.
+I use my GitHub to document my journey and showcase projects from my **Cyber Lab Journal**, where I explore penetration testing, packet analysis, and scripting. As well showing my current learnings from my **CCNA Home Lab**, where I take you through scripts, running configurations, labs, and notes!
 
 ---
 
 ## 🎯 Objective  
-My goal is to grow into a **penetration testing or security consulting role**, while continuing to strengthen my technical foundation in:  
+My goal is to grow into a **network security analyst role**, while continuing to strengthen my technical foundation in:  
 - **Network fundamentals (CCNA path)**  
 - **Penetration testing labs & methodology**  
 - **Automation & scripting (PowerShell, Bash)**  
@@ -18,10 +18,10 @@ My goal is to grow into a **penetration testing or security consulting role**, w
 
 ## 🛠 Skills in Progress  
 
-| Area of Study / Skill                  | Example Work                                                                 |
+| Area of Study / Skill                  | Example Work                                                                  |
 |----------------------------------------|-------------------------------------------------------------------------------|
 | **Web Application Security**           | Burp Suite practice, PortSwigger labs, TryHackMe write-ups                    |
-| **Networking (Packet Tracer)**         | CCNA labs with Cisco Packet Tracer (routing, switching, configs)              |
+| **Networking (CCNA-Home-Lab)**         | CCNA labs with Real Cisco equipment (routing, switching, configs)             |
 | **Traffic Analysis (Wireshark)**       | Capturing & analyzing packets in lab environments                             |
 | **API Testing (Postman)**              | Beginner API exploration and requests                                         |
 | **Windows & PowerShell**               | Basic scripts, Outlook email extraction, command exploration on macOS         |
@@ -66,13 +66,17 @@ My goal is to grow into a **penetration testing or security consulting role**, w
 
 ---
 
-## 📂 Featured Project: Cyber Lab Journal  
+## 📂 Featured Projects: Cyber Lab Journal  
 [Cyber Lab Journal](https://github.com/essenced83/CyberLab95) documents my hands-on cybersecurity practice, including:  
 - **Penetration Testing** → Metasploitable2 exploits, DVWA walkthroughs, SQLi, command injection  
 - **Log & Dashboarding** → GoAccess for web traffic analytics  
 - **Helpdesk & Infra** → osTicket setup with IMAP/SMTP, linked to phpMyAdmin  
-- **Networking** → Communication testing between systems, Packet Tracer scenarios  
+- **Networking** → Communication testing between systems, Packet Tracer scenarios
 
+[CCNA Home Lab](https://github.com/B1naryBloom/CCNA-Home-Lab) documents my hands-on networking practice:
+- **scripts** → ssh command automation
+- **notes**   → notes on different concepts I am learning
+- **configs** → running configurations of the devices I am currently using
 ---
 
 ## 🚀 What’s Next  
