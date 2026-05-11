@@ -3,7 +3,7 @@
 
 I am an early career cybersecurity professional passionate about hands-on learning in **cybersecurity, networking, and web application security**.
 
-I use my GitHub to document my journey and showcase projects from my **Cyber Lab Journal**, where I explore penetration testing, packet analysis, and scripting. As well showing my current learnings from my **CCNA Home Lab**, where I take you through scripts, running configurations, labs, and notes!
+I use my GitHub to document my journey and showcase projects from my **CCNA Home Lab**, where I take you through scripts, running configurations, labs, and notes! I have also used this GitHub to document learnings in my **Cyber Lab Journal**, where I explore penetration testing, packet analysis, and scripting.
 
 ---
 
@@ -11,7 +11,7 @@ I use my GitHub to document my journey and showcase projects from my **Cyber Lab
 My goal is to grow into a **network security analyst role**, while continuing to strengthen my technical foundation in:  
 - **Network fundamentals (CCNA path)**  
 - **Penetration testing labs & methodology**  
-- **Automation & scripting (PowerShell, Bash)**  
+- **Automation & scripting (PowerShell, Bash, Python)**  
 - **Hands-on tool usage (Burp Suite, Wireshark, Postman, etc.)**  
 
 ---
@@ -80,7 +80,6 @@ My goal is to grow into a **network security analyst role**, while continuing to
 ---
 
 ## 🚀 What’s Next  
-- Expand **API testing** with Postman  
-- Continue **CCNA studies** with Packet Tracer labs  
-- Build more **Pentest write-ups** for GitHub & LinkedIn  
-- Strengthen **PowerShell scripting** for automation and incident response  
+- Continue **CCNA studies** with homelab  
+- Build more **CCNA writeups** for GitHub & LinkedIn  
+- Strengthen **Python scripting** for automation with lab equipment  
